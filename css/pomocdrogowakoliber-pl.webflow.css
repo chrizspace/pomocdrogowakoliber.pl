@@ -719,7 +719,7 @@ figcaption {
   top: auto;
   right: 0%;
   bottom: 0%;
-  width: 80px;
+  width: 96px;
 }
 
 @media screen and (max-width: 991px) {
@@ -998,4 +998,3 @@ figcaption {
     bottom: 0%;
   }
 }
-
